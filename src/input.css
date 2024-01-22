@@ -14,3 +14,9 @@ body {
         width: 425px;
     }
 }
+
+@media (min-width: 1440px) {
+    .container {
+        max-width: 40%;
+    }
+}
